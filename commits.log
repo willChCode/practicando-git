@@ -1,0 +1,128 @@
+commit 6a720fcd84d3f5081fb24e0c316cde4aef46045a
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:55:14 2022 -0400
+
+    agreagdno tres parrafos
+
+commit bab2690991b61fbba8fcf25a7ff0c0614ef81595
+Merge: 8806205 2e69fb7
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:43:06 2022 -0400
+
+    rsolviendo conflixctos en estaciones del aclear
+
+commit 88062052bc2aa258869d6b1cde2af17396221e51
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:20:50 2022 -0400
+
+    agregando estaciones del año con fecha
+
+commit 2e69fb7efba7c691888c45f76014c7401f1a6e84
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:20:50 2022 -0400
+
+    agregando estaciones del año
+
+commit cd161959872cbd6ed756bfc6a9d510bacb048b92
+Merge: 503daa5 e11b7ee
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:13:15 2022 -0400
+
+    resolviendo conflictos merge main/html en el documento index.html
+
+commit e11b7ee2c202b78cfb6d2591cb15a7d24f1976db
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:05:46 2022 -0400
+
+    agregando index.js al index.html
+
+commit 503daa534349f792061ddad306c9b8acb3122bdf
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 20:01:28 2022 -0400
+
+    agregando style.css al index
+
+commit 3b437303169b62fd870c89c9a8084367e585309d
+Merge: 14c1da5 7681376
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 18:09:12 2022 -0400
+
+    Merge branch 'js'
+
+commit 7681376a9c20c2359dcf0cfc25d3b379552bd66c
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 17:59:08 2022 -0400
+
+    agregando js
+
+commit 14c1da5b4c65a9312e54418ed3091e0a420059d3
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 17:42:29 2022 -0400
+
+    creando css
+
+commit e3bc7bc34fcec0ff1a669e1cbbd460514be95b26
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 17:36:06 2022 -0400
+
+    creando hola.html y arreglando problemas
+
+commit 3fc12b9206a28284f53433c2f2b7414c24c34b93
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 17:29:23 2022 -0400
+
+    modificando ramas
+
+commit e88755fe797d42bd7e6fc1556b87c543e199569b
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 16:44:57 2022 -0400
+
+    ignorando todas las carpetas exepto google.com
+
+commit 93709b7d7dbb7a075a6aa3796d9b79be754d19c9
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 16:31:00 2022 -0400
+
+    ignoradno archivos .txt
+
+commit 13db246cb60eb20ab254bfbc37ad699d36b9a873
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 16:29:23 2022 -0400
+
+    ignorando archivoss html
+
+commit a0ee9165c416f3afeac3870a5df6c5b806316015
+Author: willCh <willchcode@gmail.com>
+Date:   Sat Aug 13 16:23:36 2022 -0400
+
+    ignoradno archivos .exe
+
+commit 8fddd4e8f09c0cd4185a95ab09c3e62b4feacb10
+Author: willCh <109697636+willChCode@users.noreply.github.com>
+Date:   Sat Aug 13 00:17:12 2022 -0400
+
+    creando licencia del repositorio
+
+commit 0f41080b8965b31eca4c210802362ecb24e01c04
+Author: willCh <willchcode@gmail.com>
+Date:   Fri Aug 12 23:38:52 2022 -0400
+
+    agregando mas contenido 2
+
+commit e13fd36ca7a081f0455ed4ad93da4c01e23d4747
+Author: willCh <willchcode@gmail.com>
+Date:   Fri Aug 12 23:08:57 2022 -0400
+
+    pequeños cambios jeje
+
+commit 3c3f9bc57a4be6f04020165b32190444233d526d
+Author: willCh <willchcode@gmail.com>
+Date:   Fri Aug 12 22:41:56 2022 -0400
+
+    Agregando contenido inicial al README
+
+commit e21cf949588be28c98e4a0093ce94abf85d181b3
+Author: willCh <willchcode@gmail.com>
+Date:   Fri Aug 12 22:33:45 2022 -0400
+
+    primer commit :)

@@ -1,0 +1,28 @@
+* 6a720fc agreagdno tres parrafos
+*   bab2690 rsolviendo conflixctos en estaciones del aclear
+|\  
+| * 2e69fb7 agregando estaciones del año
+* | 8806205 agregando estaciones del año con fecha
+|/  
+*   cd16195 resolviendo conflictos merge main/html en el documento index.html
+|\  
+| * e11b7ee agregando index.js al index.html
+* | 503daa5 agregando style.css al index
+* |   3b43730 Merge branch 'js'
+|\ \  
+| * | 7681376 agregando js
+* | | 14c1da5 creando css
+| |/  
+|/|   
+* | e3bc7bc creando hola.html y arreglando problemas
+* | 3fc12b9 modificando ramas
+|/  
+* e88755f ignorando todas las carpetas exepto google.com
+* 93709b7 ignoradno archivos .txt
+* 13db246 ignorando archivoss html
+* a0ee916 ignoradno archivos .exe
+* 8fddd4e creando licencia del repositorio
+* 0f41080 agregando mas contenido 2
+* e13fd36 pequeños cambios jeje
+* 3c3f9bc Agregando contenido inicial al README
+* e21cf94 primer commit :)
